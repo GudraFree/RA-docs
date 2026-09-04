@@ -65,13 +65,13 @@ Check the links here for console-specific guidelines and info:
 |   08   | 2025-07-01 - 2025-09-30 |                    [MSX](/developer-docs/devjam/8-msx)                     |           26           |      79       |
 |   09   | 2026-02-01 - 2026-04-30 |               [Catch-Up](/developer-docs/devjam/9-catch-up)                |           ??           |      ??       |
 |   10   | 2026-05-01 - 2026-07-31 | [Master System/Game Gear](/developer-docs/devjam/10-mastersystem-gamegear) |           ??           |      ??       |
+|   11   | 2026-08-01 - 2026-10-31 |           [Famicom Disk System](/developer-docs/devjam/10-fds)             |           ??           |      ??       |
 
 ## Planned DevJams
 
 Solo Console DevJams:
 
 - 3DO
-- Famicom Disk System
 - Nintendo DS
 
 Multi-Console DevJams:
