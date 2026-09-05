@@ -30,9 +30,9 @@ While the main goal is to promote a bunch of a sets, there are secondary goals t
 - Top 10 requested games
 - All Nintendo developed games
 - All games released in 1991 and 1992
-- Reach a total of 70 and 100 sets
+- Reach a total of 80 and 120 sets
 
-You can see the list of games and progress of each goal [here](https://docs.google.com/spreadsheets/d/1EBMW7nO95wvbsOAIfgm2XFnCCez2a14jRfYAnt-uqvo/edit?gid=420135808#gid=420135808).
+You can see the list of games and progress of each goal [here](https://docs.google.com/spreadsheets/d/1EBMW7nO95wvbsOAIfgm2XFnCCez2a14jRfYAnt-uqvo/edit?gid=1251711278#gid=1251711278).
 
 ## Stats
 
