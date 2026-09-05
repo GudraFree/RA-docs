@@ -28,9 +28,10 @@ This table details earnable points for the Master System/Game Gear DevJam:
 While the main goal is to promote a bunch of a sets, there are secondary goals that we can work on as a group. If a goal is met, bonus points will be applied _to those who helped reach it_. Goals that are focused on getting the number of sets to a certain number will grant bonus points to everyone who does a set, even after that goal is met. The Famicom Disk System goals are:
 
 - Top 10 requested games
-- All Nintendo developed games
+- All games developed by Nintendo
 - All games released in 1991 and 1992
-- Reach a total of 80 and 120 sets
+- Reach a total of 80 sets
+- Reach a total of 120 sets
 
 You can see the list of games and progress of each goal [here](https://docs.google.com/spreadsheets/d/1EBMW7nO95wvbsOAIfgm2XFnCCez2a14jRfYAnt-uqvo/edit?gid=1251711278#gid=1251711278).
 
