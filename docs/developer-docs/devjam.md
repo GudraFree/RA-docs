@@ -66,6 +66,7 @@ Check the links here for console-specific guidelines and info:
 |   09   | 2026-02-01 - 2026-04-30 |               [Catch-Up](/developer-docs/devjam/9-catch-up)                |           18           |      40       |
 |   10   | 2026-05-01 - 2026-07-31 | [Master System/Game Gear](/developer-docs/devjam/10-mastersystem-gamegear) |           36           |      76       |
 |   11   | 2026-08-01 - 2026-10-31 |           [Famicom Disk System](/developer-docs/devjam/11-fds)             |           ??           |      ??       |
+|   12   | 2026-11-01 - 2027-01-31 |        [Season 1 Catch-Up](/developer-docs/devjam/12-catch-up-s1)          |           ??           |      ??       |
 
 ## Planned DevJams
 
@@ -82,10 +83,9 @@ Multi-Console DevJams:
 
 End of the Line for Console-Specific DevJams:
 
-- "The Magnificent Seven" (Mega Drive, Nintendo 64, SNES, Game Boy, Game Boy Advance, Game Boy Color, NES)
+- "The Magnificent Seven" (Mega Drive, NES, SNES, Nintendo 64, Game Boy, Game Boy Color, Game Boy Advance)
 
 ## See Also
 
-- [DevJam Vol. 1 Event Entry](https://retroachievements.org/game/20000)
-- [DevJam Vol. 2 Event Entry](https://retroachievements.org/game/30000)
-- [DevJam Forum Topic](https://retroachievements.org/viewtopic.php?t=22368)
+- [DevJam Vol. 1 Event Entry](https://retroachievements.org/event/152-devjam-vol-1)
+- [DevJam Vol. 2 Event Entry](https://retroachievements.org/event/198-devjam-vol-2)
