@@ -16,7 +16,7 @@ This table details earnable points for the Season 1 Catch-Up DevJam:
 | Points |                   Set Submission                               |
 | :----: | :------------------------------------------------------------: |
 |   4    |                Licensed Saturn RPGs                            |
-|   3    |                Standard PC-8801 games                          |
+|   3    |                Licensed PC Engine (CD) Games                   |
 |   3    |                Licensed Saturn Games                           |
 |   3    |                Atomiswave and Sega NAOMI games                 |
 |   2    |                Other Licensed Games                            |
@@ -35,7 +35,8 @@ The list of eligible platforms is the ones featured in the first season of DevJa
 
 - Sega SG-1000
 - Sega Saturn
-- PC-8001/PC-8801
+- PC Engine
+- PC Engine CD
 - Arcade
 
 ## See Also
